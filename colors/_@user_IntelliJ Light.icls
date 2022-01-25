@@ -3,7 +3,7 @@
     <property name="created">2021-12-07T21:27:15</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-01-17T12:05:02</property>
+    <property name="modified">2022-01-25T11:27:10</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -17,6 +17,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="777777" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
