@@ -4,7 +4,7 @@
     <property name="created">2022-01-17T12:02:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-02-07T14:02:07</property>
+    <property name="modified">2022-03-16T11:32:27</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <console-font>
@@ -49,6 +49,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="91b859" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="945eb8" />
     <option name="FILESTATUS_MODIFIED" value="39adb5" />
