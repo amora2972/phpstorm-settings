@@ -1,0 +1,16 @@
+<application>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="Encoding" value="false" />
+        <entry key="LineSeparator" value="false" />
+        <entry key="Notifications" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+        <entry key="settingsEntryPointWidget" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
