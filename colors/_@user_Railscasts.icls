@@ -1,9 +1,9 @@
 <scheme name="_@user_Railscasts" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-03-21T14:50:35</property>
+    <property name="created">2022-04-03T03:23:08</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-21T14:51:15</property>
+    <property name="ideVersion">2021.3.0.0</property>
+    <property name="modified">2022-04-03T03:23:08</property>
     <property name="originalScheme">Railscasts</property>
   </metaInfo>
   <colors>
@@ -78,11 +78,6 @@
     <option name="COFFEESCRIPT.FUNCTION_BINDING">
       <value>
         <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
@@ -244,11 +239,6 @@
         <option name="FOREGROUND" value="da4939" />
       </value>
     </option>
-    <option name="CSS.IDENT">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="CSS.NUMBER">
       <value>
         <option name="FOREGROUND" value="a5c261" />
@@ -263,11 +253,6 @@
       <value>
         <option name="FOREGROUND" value="68e868" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CSS.TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -421,11 +406,6 @@
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_INSTANCE_METHOD">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-      </value>
-    </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -1370,11 +1350,6 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="SASS_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="SASS_IMPORTANT">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -1400,19 +1375,9 @@
         <option name="FOREGROUND" value="6e9cbe" />
       </value>
     </option>
-    <option name="SASS_PROPERTY_VALUE">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
     <option name="SASS_STRING">
       <value>
         <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="SASS_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="SASS_URL">
